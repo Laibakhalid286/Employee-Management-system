@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EmployeeManagementDAL/1.0.0": {
+        "dependencies": {
+          "DTOdepartment": "1.0.0",
+          "DTOemployee": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeManagementDAL.dll": {}
+        }
+      },
+      "DTOdepartment/1.0.0": {
+        "runtime": {
+          "DTOdepartment.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DTOemployee/1.0.0": {
+        "runtime": {
+          "DTOemployee.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeManagementDAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DTOdepartment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DTOemployee/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

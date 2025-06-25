@@ -1,0 +1,17 @@
+C:\Users\Ali Ahmad\source\repos\EmployeeManagementsystem\EmployeeManagementDAL\bin\Debug\net8.0\EmployeeManagementDAL.deps.json
+C:\Users\Ali Ahmad\source\repos\EmployeeManagementsystem\EmployeeManagementDAL\bin\Debug\net8.0\EmployeeManagementDAL.dll
+C:\Users\Ali Ahmad\source\repos\EmployeeManagementsystem\EmployeeManagementDAL\bin\Debug\net8.0\EmployeeManagementDAL.pdb
+C:\Users\Ali Ahmad\source\repos\EmployeeManagementsystem\EmployeeManagementDAL\bin\Debug\net8.0\DTOdepartment.dll
+C:\Users\Ali Ahmad\source\repos\EmployeeManagementsystem\EmployeeManagementDAL\bin\Debug\net8.0\DTOemployee.dll
+C:\Users\Ali Ahmad\source\repos\EmployeeManagementsystem\EmployeeManagementDAL\bin\Debug\net8.0\DTOdepartment.pdb
+C:\Users\Ali Ahmad\source\repos\EmployeeManagementsystem\EmployeeManagementDAL\bin\Debug\net8.0\DTOemployee.pdb
+C:\Users\Ali Ahmad\source\repos\EmployeeManagementsystem\EmployeeManagementDAL\obj\Debug\net8.0\EmployeeManagementDAL.csproj.AssemblyReference.cache
+C:\Users\Ali Ahmad\source\repos\EmployeeManagementsystem\EmployeeManagementDAL\obj\Debug\net8.0\EmployeeManagementDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Ahmad\source\repos\EmployeeManagementsystem\EmployeeManagementDAL\obj\Debug\net8.0\EmployeeManagementDAL.AssemblyInfoInputs.cache
+C:\Users\Ali Ahmad\source\repos\EmployeeManagementsystem\EmployeeManagementDAL\obj\Debug\net8.0\EmployeeManagementDAL.AssemblyInfo.cs
+C:\Users\Ali Ahmad\source\repos\EmployeeManagementsystem\EmployeeManagementDAL\obj\Debug\net8.0\EmployeeManagementDAL.csproj.CoreCompileInputs.cache
+C:\Users\Ali Ahmad\source\repos\EmployeeManagementsystem\EmployeeManagementDAL\obj\Debug\net8.0\Employee.7A2EDEC7.Up2Date
+C:\Users\Ali Ahmad\source\repos\EmployeeManagementsystem\EmployeeManagementDAL\obj\Debug\net8.0\EmployeeManagementDAL.dll
+C:\Users\Ali Ahmad\source\repos\EmployeeManagementsystem\EmployeeManagementDAL\obj\Debug\net8.0\refint\EmployeeManagementDAL.dll
+C:\Users\Ali Ahmad\source\repos\EmployeeManagementsystem\EmployeeManagementDAL\obj\Debug\net8.0\EmployeeManagementDAL.pdb
+C:\Users\Ali Ahmad\source\repos\EmployeeManagementsystem\EmployeeManagementDAL\obj\Debug\net8.0\ref\EmployeeManagementDAL.dll

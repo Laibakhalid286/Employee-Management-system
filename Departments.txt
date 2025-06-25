@@ -1,0 +1,2 @@
+1,sales,handles sales and marketing
+2,IT,handles tech
